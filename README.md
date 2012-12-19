@@ -17,8 +17,8 @@ These are some available features:
   - Use of scale a:b
   - Plot of math functions
 
-Screenshots
+How to use
 ===========
 
-Here are some screenshots of this class in action.
+See Test.java for some examples.
 
