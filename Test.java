@@ -24,7 +24,7 @@ public class Test extends JFrame {
     plane.setShowGrid(true);
 
     // Plot function, the plane store a list of functions so that you can
-    // graph many function at the same time
+    // graph many functions at the same time
     plane.plot(f);
 
     Function g = new Function("x^3 - x", "g(x)");

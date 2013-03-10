@@ -3,8 +3,8 @@ Plane
 
 A cartesian plane to plot functions, in Java.
 
-I have developnd this class because I need it for another project, and now
-I'am isolating this part because I believe it can be useful for others or
+I have developed this class because I need it for another project, and now
+I am isolating this part because I believe it can be useful for others or
 even for me in the future.
 
 Features

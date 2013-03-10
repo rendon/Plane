@@ -510,7 +510,7 @@ public class Parser {
 }
 
 /**
- * This class is wrapper of the java.lang.Math class that provides
+ * This class is a wrapper of the java.lang.Math class that provides
  * more additional functionality the the class Parser.
  */
 
